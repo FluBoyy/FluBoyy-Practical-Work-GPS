@@ -21,17 +21,6 @@
     - [Sprint 2](#sprint-2)
     - [Sprint 3](#sprint-3)
 
-## Team
-
-- Leonardo Gomes - 2019133504 - a2019133504@isec.pt
-- João Santos - 2020136093 - a2020136093@isec.pt
-- João Duarte - 2020122715 - a2020122715@isec.pt
-- André Dias - 2021140917 - a2021140917@isec.pt
-- Bruno Gomes - 2017015265 - a21270470@isec.pt
-
-
-- Meeting checklist: [link](https://gitlab.com/a2019133504/gps_g14/-/blob/dev/Meeting_Checklist.md)
-
 ***
 
 ## Vision and Scope
