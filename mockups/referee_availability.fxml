@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TitledPane?>
+
+<SplitPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="598.0" prefWidth="818.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+  <items>
+      <TitledPane animated="false" collapsible="false" prefHeight="595.0" prefWidth="314.0" text="Tempos disponiveis">
+         <content>
+            <TableView prefHeight="200.0" prefWidth="805.0">
+               <columns>
+                  <TableColumn prefWidth="91.0" text="ID" />
+                  <TableColumn prefWidth="91.0" text="Tempo Inicio" />
+                  <TableColumn prefWidth="59.0" text="Duração" />
+               </columns>
+            </TableView>
+         </content>
+      </TitledPane>
+  </items>
+</SplitPane>
